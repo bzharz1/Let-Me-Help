@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dd9cec7aa443d4e34ba59b7b1288c446
+timeCreated: 1470405110
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Angelique Rose
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 24a158cd44ee44904b07782a3ea0d030, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2beb8732838504b10ba4df381cfbfeb7
+timeCreated: 1470405174
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Edge
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0c2a4ba80d71d4438a707be25de940a3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

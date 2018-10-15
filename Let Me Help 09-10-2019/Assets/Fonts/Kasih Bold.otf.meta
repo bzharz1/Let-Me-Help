@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1c351df1b7de34d8bab26601f125eca1
+timeCreated: 1470405234
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kasih
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3b43705208625458bb4d672df34d7916, type: 3}
+  - {fileID: 12800000, guid: fc93d3e3874fd410f8f74dea6b601ded, type: 3}
+  - {fileID: 12800000, guid: c460d04c3ccfb480785a0bcad3b16798, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
